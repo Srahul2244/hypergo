@@ -1,5 +1,8 @@
 # hypergo
 
+<h1>Most Probably I tryied to use <h3>Typescript</h3> but i am getting a lot of error soo i solved the assignment only using React,Tailwind CSS</h1>
+
+
 <h1 style={{color:"blue"}}>React Video Clone</h1>
 <p>A simplified video clone web application built with React.js and Axios for fetching data.</p>
 
