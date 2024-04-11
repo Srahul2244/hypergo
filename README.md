@@ -1,6 +1,6 @@
 # hypergo
 
-<h1>Most Probably I tryied to use <h3>Typescript</h3> but i am getting a lot of error soo i solved the assignment only using React,Tailwind CSS</h1>
+<h4>Most Probably I tryied to use <h2>Typescript</h2> but i am getting a lot of error soo i solved the assignment only using React,Tailwind CSS</h4>
 
 
 <h1 style={{color:"blue"}}>React Video Clone</h1>
