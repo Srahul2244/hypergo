@@ -1,4 +1,4 @@
-# hypergo
+# HyperGo
 
 <h4>Most Probably I tryied to use <h2>Typescript</h2> but i am getting a lot of error soo i solved the assignment only using React,Tailwind CSS</h4>
 
